@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Mamadou! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<!--
-**themdiallo/themdiallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+- Tryhackme Complete Beginner path:(https://tryhackme.com/paths)
+
+- Burpsuite home lab: The Basics
+
+
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]:(https://www.linkedin.com/in/mamadou-diallo-37a1732a5/)<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
