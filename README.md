@@ -10,7 +10,7 @@
 
 <h3>📄 Certifications:</h3>
 
-- Coding Dojo certificate of recognition
+- Coding Dojo Certificate of Recognition
 - CompTIA Security+
 - CompTIA CYSA+
 
