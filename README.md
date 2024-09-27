@@ -8,6 +8,10 @@
 - Burpsuite home lab: The Basics
 
 
+<h3>📄 Certifications:</h3>
+
+- Coding Dojo certificate of recognition
+- Comptia Security+
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]:(https://www.linkedin.com/in/mamadou-diallo-37a1732a5/)<!--
