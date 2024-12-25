@@ -1,9 +1,9 @@
-<h1>Hi, I'm Mamadou! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Mamadou! <br/>Programmer, Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- Tryhackme Complete Beginner path:(https://tryhackme.com/paths)
+- Tryhackme Complete Beginner path
 
 - Burpsuite home lab: The Basics
 
